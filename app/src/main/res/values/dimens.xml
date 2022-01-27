@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="rectRight">600dp</dimen>
+    <dimen name="rectBottom">60dp</dimen>
+    <dimen name="rectTop">0dp</dimen>
+    <dimen name="rectLeft">0dp</dimen>
+
+    <dimen name="rectInset">8dp</dimen>
+    <dimen name="textoffset">20dp</dimen>
+
+    <dimen name="default_text_size">20sp</dimen>
+    <dimen name="detail_text_size">20sp</dimen>
+</resources>
